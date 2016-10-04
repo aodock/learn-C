@@ -14,3 +14,5 @@ also : http://www.linfo.org/create_c2.html
 	     [https://linuxconfig.org/c-development-on-linux-introduction-i]
 * lesson2.c  - "accept input from user"
   	     [http://www.linfo.org/create_c2.html]
+* lesson3.c  - "print limits of types"
+  	     [https://linuxconfig.org/c-development-on-linux-types-variables-operators]
